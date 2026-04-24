@@ -42,19 +42,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-A8E6A3?style=for-the-badge&logo=windows)
 
 ---
-### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/alovidju/MiPrimerRepo/pull/6) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-2. 💪 Opened PR [#6](https://github.com/alovidju/MiPrimerRepo/pull/6) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-3. ❗ Opened issue [#5](https://github.com/alovidju/MiPrimerRepo/issues/5) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-4. 🔒 Closed issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-5. ❗ Opened issue [#4](https://github.com/alovidju/MiPrimerRepo/issues/4) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-6. ℹ️ Assigned issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-7. ❗ Opened issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-8. 🎉 Merged PR [#2](https://github.com/alovidju/MiPrimerRepo/pull/2) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-9. 💪 Opened PR [#2](https://github.com/alovidju/MiPrimerRepo/pull/2) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-10. ❗ Opened issue [#1](https://github.com/alovidju/MiPrimerRepo/issues/1) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-<!--END_SECTION:activity-->
+<!-- START OF RECENT ACTIVITY -->
+<!-- END OF RECENT ACTIVITY -->
 ---
 
 ## 📊 GitHub Analytics
