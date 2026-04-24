@@ -42,8 +42,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-A8E6A3?style=for-the-badge&logo=windows)
 
 ---
-<!-- START OF RECENT ACTIVITY -->
-<!-- END OF RECENT ACTIVITY -->
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 ## 📊 GitHub Analytics
