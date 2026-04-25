@@ -72,7 +72,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/julian_david_garcia)  
 - 🐙 [GitHub](https://github.com/alovidju)  
 
-
+<kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd>
 ---
 
 ⭐ *Feel free to check out my repositories and connect!*
