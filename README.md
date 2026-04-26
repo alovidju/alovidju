@@ -44,16 +44,16 @@
 ---
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/alovidju/MiTercerRepo/issues/1) in [alovidju/MiTercerRepo](https://github.com/alovidju/MiTercerRepo)
-2. ❗ Opened issue [#1](https://github.com/alovidju/MiTercerRepo/issues/1) in [alovidju/MiTercerRepo](https://github.com/alovidju/MiTercerRepo)
-3. ❌ Closed PR [#6](https://github.com/alovidju/MiPrimerRepo/pull/6) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-4. 💪 Opened PR [#6](https://github.com/alovidju/MiPrimerRepo/pull/6) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-5. ❗ Opened issue [#5](https://github.com/alovidju/MiPrimerRepo/issues/5) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-6. 🔒 Closed issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-7. ❗ Opened issue [#4](https://github.com/alovidju/MiPrimerRepo/issues/4) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-8. ℹ️ Assigned issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-9. ❗ Opened issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
-10. 🎉 Merged PR [#2](https://github.com/alovidju/MiPrimerRepo/pull/2) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/alovidju/MiQuintoRepo/releases/tag/v0.1.0) in [alovidju/MiQuintoRepo](https://github.com/alovidju/MiQuintoRepo)
+2. 🔒 Closed issue [#1](https://github.com/alovidju/MiTercerRepo/issues/1) in [alovidju/MiTercerRepo](https://github.com/alovidju/MiTercerRepo)
+3. ❗ Opened issue [#1](https://github.com/alovidju/MiTercerRepo/issues/1) in [alovidju/MiTercerRepo](https://github.com/alovidju/MiTercerRepo)
+4. ❌ Closed PR [#6](https://github.com/alovidju/MiPrimerRepo/pull/6) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
+5. 💪 Opened PR [#6](https://github.com/alovidju/MiPrimerRepo/pull/6) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
+6. ❗ Opened issue [#5](https://github.com/alovidju/MiPrimerRepo/issues/5) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
+7. 🔒 Closed issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
+8. ❗ Opened issue [#4](https://github.com/alovidju/MiPrimerRepo/issues/4) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
+9. ℹ️ Assigned issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
+10. ❗ Opened issue [#3](https://github.com/alovidju/MiPrimerRepo/issues/3) in [alovidju/MiPrimerRepo](https://github.com/alovidju/MiPrimerRepo)
 <!--END_SECTION:activity-->
 ---
 
